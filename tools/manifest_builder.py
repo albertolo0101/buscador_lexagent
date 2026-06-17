@@ -110,7 +110,7 @@ def _fuente_a_dominio(celda: str, url_conocida: str | None, dominios_portal: dic
     portal = ANCHOR_ALIASES.get(token.upper()) or ANCHOR_ALIASES.get(primera_palabra.upper())
     if portal:
         return dominios_portal.get(portal, portal)
-    return dominios_portal.get(token, token)
+    return dominios_portal.get(token)
 
 
 def _parse_flags(celda: str | None) -> list[str]:

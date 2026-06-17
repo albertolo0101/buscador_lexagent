@@ -766,7 +766,7 @@
   {
     "ley": "Ley Orgánica del MP",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -776,7 +776,7 @@
   {
     "ley": "Ley Orgánica del INACIF",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -786,7 +786,7 @@
   {
     "ley": "Régimen Penitenciario",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -796,7 +796,7 @@
   {
     "ley": "Servicio Público de Defensa Penal",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -806,7 +806,7 @@
   {
     "ley": "Protección de Sujetos Procesales",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -816,7 +816,7 @@
   {
     "ley": "Femicidio",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -826,7 +826,7 @@
   {
     "ley": "Violencia Sexual y Trata",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -836,7 +836,7 @@
   {
     "ley": "Violencia Intrafamiliar",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -846,7 +846,7 @@
   {
     "ley": "Delincuencia Organizada",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -856,7 +856,7 @@
   {
     "ley": "Narcoactividad",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -866,7 +866,7 @@
   {
     "ley": "Armas y Municiones",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -876,7 +876,7 @@
   {
     "ley": "Extinción de Dominio",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -886,7 +886,7 @@
   {
     "ley": "Extradición",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -896,7 +896,7 @@
   {
     "ley": "Control Telemático",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -906,7 +906,7 @@
   {
     "ley": "PINA",
     "batch": "5",
-    "fuente_primaria": "MP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -916,7 +916,7 @@
   {
     "ley": "RENAP",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -926,7 +926,7 @@
   {
     "ley": "Código de Migración",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -936,7 +936,7 @@
   {
     "ley": "Adopciones",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -946,7 +946,7 @@
   {
     "ley": "Vivienda",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -956,7 +956,7 @@
   {
     "ley": "Aviación Civil",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -966,7 +966,7 @@
   {
     "ley": "Pesca y Acuicultura",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -976,7 +976,7 @@
   {
     "ley": "ONGs",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -986,7 +986,7 @@
   {
     "ley": "Cooperativas",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -996,7 +996,7 @@
   {
     "ley": "Tercera Edad",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -1006,7 +1006,7 @@
   {
     "ley": "Aporte Adulto Mayor",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -1016,7 +1016,7 @@
   {
     "ley": "Dignificación de la Mujer",
     "batch": "5",
-    "fuente_primaria": "RENAP",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -1086,7 +1086,7 @@
   {
     "ley": "Propiedad Industrial",
     "batch": "5",
-    "fuente_primaria": "MINECO",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -1096,7 +1096,7 @@
   {
     "ley": "Derecho de Autor",
     "batch": "5",
-    "fuente_primaria": "MINECO",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -1106,7 +1106,7 @@
   {
     "ley": "Protección al Consumidor",
     "batch": "5",
-    "fuente_primaria": "MINECO",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -1116,7 +1116,7 @@
   {
     "ley": "Fortalecimiento al Emprendimiento",
     "batch": "5",
-    "fuente_primaria": "MINECO",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -1126,7 +1126,7 @@
   {
     "ley": "Comunicaciones y Firmas Electrónicas",
     "batch": "5",
-    "fuente_primaria": "MINECO",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -1136,7 +1136,7 @@
   {
     "ley": "Registro de Información Catastral",
     "batch": "5",
-    "fuente_primaria": "MINECO",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -1146,7 +1146,7 @@
   {
     "ley": "Ley Orgánica USAC",
     "batch": "5",
-    "fuente_primaria": "MINECO",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
@@ -1156,7 +1156,7 @@
   {
     "ley": "PGN",
     "batch": "5",
-    "fuente_primaria": "MINECO",
+    "fuente_primaria": null,
     "url_conocida": null,
     "flags_esperados": [],
     "fuentes_fallback": [
