@@ -1,0 +1,1226 @@
+[
+  {
+    "ley": "Constitución Política",
+    "batch": "1A",
+    "fuente_primaria": "ww2.oj.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [
+      "comentada-riesgo"
+    ],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Amparo, Exhibición Personal y de Constitucionalidad",
+    "batch": "1A",
+    "fuente_primaria": "ww2.oj.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [
+      "comentada-riesgo"
+    ],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Electoral y de Partidos Políticos",
+    "batch": "1A",
+    "fuente_primaria": "tse.org.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Emisión del Pensamiento",
+    "batch": "1A",
+    "fuente_primaria": "congreso.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [
+      "escaneada"
+    ],
+    "fuentes_fallback": []
+  },
+  {
+    "ley": "Ley de Orden Público",
+    "batch": "1A",
+    "fuente_primaria": "congreso.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [
+      "escaneada"
+    ],
+    "fuentes_fallback": []
+  },
+  {
+    "ley": "Código Civil",
+    "batch": "1B",
+    "fuente_primaria": "ww2.oj.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [
+      "comentada"
+    ],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código Procesal Civil y Mercantil",
+    "batch": "1B",
+    "fuente_primaria": "ww2.oj.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código Penal",
+    "batch": "1B",
+    "fuente_primaria": "ww2.oj.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [
+      "compilacion"
+    ],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código Procesal Penal",
+    "batch": "1B",
+    "fuente_primaria": "ww2.oj.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código de Comercio",
+    "batch": "1B",
+    "fuente_primaria": "ww2.oj.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código de Notariado",
+    "batch": "1B",
+    "fuente_primaria": "ww2.oj.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código de Trabajo",
+    "batch": "1B",
+    "fuente_primaria": "mintrabajo.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley del Organismo Judicial",
+    "batch": "1B",
+    "fuente_primaria": "ww2.oj.gob.gt",
+    "url_conocida": "http://ww2.oj.gob.gt/es/QueEsOJ/EstructuraOJ/UnidadesAdministrativas/CentroAnalisisDocumentacionJudicial/pdfs/Leyes/Ley_OJ.pdf",
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley del Organismo Legislativo",
+    "batch": "1B",
+    "fuente_primaria": "congreso.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": []
+  },
+  {
+    "ley": "Ley del Organismo Ejecutivo",
+    "batch": "1B",
+    "fuente_primaria": "congreso.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": []
+  },
+  {
+    "ley": "Ley de lo Contencioso Administrativo",
+    "batch": "1B",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Monetaria",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Bancos y Grupos Financieros",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": "https://www.contraloria.gob.gt/imagenes/i_docs/i_leg_ley/LEY%20DE%20BANCOS%20Y%20GRUPOS%20FINANCIEROS.pdf",
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Orgánica del Banco de Guatemala",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": "https://banguat.gob.gt/sites/default/files/banguat/leyes/2013/ley_organica_banco_de_guatemala.pdf",
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Supervisión Financiera",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": "https://banguat.gob.gt/sites/default/files/banguat/leyes/2013/ley_supervision_financiera.pdf",
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Sociedades Financieras Privadas",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Almacenes Generales de Depósito",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Actividad Aseguradora",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley del Mercado de Valores y Mercancías",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Tarjetas de Crédito",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Libre Negociación de Divisas",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Garantías Mobiliarias",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Leasing",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de los Contratos de Factoraje y de Descuento",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Insolvencia",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley contra el Lavado de Dinero u otros Activos",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley para Prevenir y Reprimir el Financiamiento del Terrorismo",
+    "batch": "2",
+    "fuente_primaria": "banguat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código Tributario",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley del IVA",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Actualización Tributaria",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley del Impuesto de Solidaridad",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley del Impuesto Único sobre Inmuebles",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley sobre el Impuesto de Herencias, Legados y Donaciones",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Orgánica de la SAT",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Nacional de Aduanas",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley contra la Defraudación y Contrabando Aduanero",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Disposiciones Legales para el Fortalecimiento de la Administración Tributaria",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Disposiciones para el Fortalecimiento del Sistema Tributario y el Combate a la Defraudación",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Impuesto Bebidas Alcohólicas",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Impuesto Específico Cemento",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Impuesto Petróleo y Combustibles",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Impuesto Bebidas Gaseosas/Isotónicas/Jugos",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Simplificación, Actualización e Incorporación Tributaria",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Fomento y Desarrollo de la Actividad Exportadora y de Maquila",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Zonas Francas",
+    "batch": "3",
+    "fuente_primaria": "portal.sat.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Procedimiento Relativo al Hallazgo de Bienes Mostrencos",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Titulación Supletoria",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Inquilinato",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley General de Caza",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Expropiación",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Tribunales de Familia",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley del Tribunal de Cuentas",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley del Tribunal de Conflictos de Jurisdicción",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Libro III del Comercio Marítimo",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Universidades Privadas",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Colegiación Profesional Obligatoria",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código de Ética Profesional",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Clases Pasivas Civiles del Estado",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley de Nacionalidad",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Reguladora de las Áreas de Reservas Territoriales del Estado",
+    "batch": "4",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Orgánica CGC",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Probidad y Responsabilidades",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Contrataciones del Estado",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Orgánica del Presupuesto",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Acceso a la Información Pública",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Antejuicio",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Descentralización",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Consejos de Desarrollo",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código Municipal",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Comisiones de Postulación",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Simplificación de Requisitos y Trámites",
+    "batch": "5",
+    "fuente_primaria": "contraloria.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Orgánica del MP",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Orgánica del INACIF",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Régimen Penitenciario",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Servicio Público de Defensa Penal",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Protección de Sujetos Procesales",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Femicidio",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Violencia Sexual y Trata",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Violencia Intrafamiliar",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Delincuencia Organizada",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Narcoactividad",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Armas y Municiones",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Extinción de Dominio",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Extradición",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Control Telemático",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "PINA",
+    "batch": "5",
+    "fuente_primaria": "MP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "RENAP",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código de Migración",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Adopciones",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Vivienda",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Aviación Civil",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Pesca y Acuicultura",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "ONGs",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Cooperativas",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Tercera Edad",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Aporte Adulto Mayor",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Dignificación de la Mujer",
+    "batch": "5",
+    "fuente_primaria": "RENAP",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Servicio Civil",
+    "batch": "5",
+    "fuente_primaria": "mintrabajo.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Servicio Municipal",
+    "batch": "5",
+    "fuente_primaria": "mintrabajo.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Servicio Civil OJ",
+    "batch": "5",
+    "fuente_primaria": "mintrabajo.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Servicio Civil OL",
+    "batch": "5",
+    "fuente_primaria": "mintrabajo.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Sindicalización y Huelga",
+    "batch": "5",
+    "fuente_primaria": "mintrabajo.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Orgánica IGSS",
+    "batch": "5",
+    "fuente_primaria": "mintrabajo.gob.gt",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Propiedad Industrial",
+    "batch": "5",
+    "fuente_primaria": "MINECO",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Derecho de Autor",
+    "batch": "5",
+    "fuente_primaria": "MINECO",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Protección al Consumidor",
+    "batch": "5",
+    "fuente_primaria": "MINECO",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Fortalecimiento al Emprendimiento",
+    "batch": "5",
+    "fuente_primaria": "MINECO",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Comunicaciones y Firmas Electrónicas",
+    "batch": "5",
+    "fuente_primaria": "MINECO",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Registro de Información Catastral",
+    "batch": "5",
+    "fuente_primaria": "MINECO",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Ley Orgánica USAC",
+    "batch": "5",
+    "fuente_primaria": "MINECO",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "PGN",
+    "batch": "5",
+    "fuente_primaria": "MINECO",
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Convenio de París",
+    "batch": "6",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Convenio de Roma",
+    "batch": "6",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Clasificación Internacional de Niza",
+    "batch": "6",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Convención de Viena sobre el Derecho de los Tratados",
+    "batch": "6",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Convenios Fundamentales de la OIT",
+    "batch": "6",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  },
+  {
+    "ley": "Código de Derecho Internacional Privado / Bustamante",
+    "batch": "6",
+    "fuente_primaria": null,
+    "url_conocida": null,
+    "flags_esperados": [],
+    "fuentes_fallback": [
+      "congreso.gob.gt"
+    ]
+  }
+]
