@@ -1,0 +1,13 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Salida del agente
+corpus/*.pdf
+corpus/*.json
+logs/*.log
+
+!corpus/.gitkeep
+!logs/.gitkeep
