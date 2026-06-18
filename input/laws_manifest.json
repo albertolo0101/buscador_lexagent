@@ -584,16 +584,6 @@
     ]
   },
   {
-    "ley": "Libro III del Comercio Marítimo",
-    "batch": "4",
-    "fuente_primaria": null,
-    "url_conocida": null,
-    "flags_esperados": [],
-    "fuentes_fallback": [
-      "congreso.gob.gt"
-    ]
-  },
-  {
     "ley": "Ley de Universidades Privadas",
     "batch": "4",
     "fuente_primaria": null,

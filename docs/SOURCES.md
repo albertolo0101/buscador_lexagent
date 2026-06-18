@@ -3,6 +3,34 @@
 > Documento de curación de fuentes. Alimenta `laws_manifest.json` (Fase 2.5).
 > Regla de oro: **la calidad del PDF de origen determina la calidad de LexGT.**
 
+## Estado del corpus (Junio 2026)
+
+Tras la corrida inicial de los 6 batches (116/121 leyes resueltas, ver
+`README.md`), estas son las fuentes que efectivamente terminaron sirviendo
+un PDF, contadas por dominio sobre los 118 JSON de metadata en `corpus/`:
+
+| Dominio | PDFs servidos | Notas |
+|---|---|---|
+| `ww2.oj.gob.gt` (CENADOJ) | 28 | Fuente más usada; cubre códigos base y buena parte de leyes judiciales/penales. |
+| `congreso.gob.gt` | 16 | Fallback universal; incluye los decretos originales escaneados de las 3 leyes "sin_texto" (Contencioso Administrativo, Ley de Nacionalidad, Propiedad Industrial). |
+| `banguat.gob.gt` | 9 | Cubre prácticamente todo el bloque financiero (batch 2). |
+| `oas.org` | 7 | Respaldo internacional para ediciones limpias antiguas. |
+| `portal.sat.gob.gt` | 5 | Ancla del batch 3 (tributario). |
+| `faolex.fao.org` | 5 | Respaldo internacional, principalmente para leyes agrarias/ambientales. |
+| `onsec.gob.gt` | 4 | Leyes de servicio civil (batch 5). |
+| `contraloria.gob.gt` (con y sin `www`) | 4 | Leyes administrativas/fiscalización. |
+| `idpp.gob.gt`, `mingob.gob.gt`, `tse.org.gt`, `usac.edu.gt` (vía `cip.usac.edu.gt`), `acnur.org` | 2 cada uno | — |
+| Resto (28 dominios distintos) | 1 cada uno | Fuentes puntuales para leyes individuales: universidades, ministerios sectoriales, ONGs internacionales, etc. |
+
+Nota: `mintrabajo.gob.gt` y `portal.rpi.gob.gt` no aparecen en ningún PDF
+del corpus actual — ninguna de las 121 leyes del manifiesto terminó
+resolviéndose a través de esos dos dominios en esta corrida. El campo
+`via_playwright` (ver `docs/ARCHITECTURE.md`) se calcula por candidato en
+`tools/evaluator.py`, pero no se persiste en el JSON de metadata final ni
+en los reportes de batch, así que no es posible reconstruir desde los
+datos guardados qué dominios específicos requirieron el fallback de
+Playwright en esta corrida.
+
 ---
 
 ## Reglas de calidad de fuentes (innegociables)

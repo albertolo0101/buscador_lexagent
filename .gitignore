@@ -8,6 +8,8 @@ venv/
 corpus/*.pdf
 corpus/*.json
 logs/*.log
+logs/*.json
+logs/*.txt
 
 !corpus/.gitkeep
 !logs/.gitkeep

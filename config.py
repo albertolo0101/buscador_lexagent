@@ -8,6 +8,7 @@ CORPUS_DIR = BASE_DIR / "corpus"
 INPUT_DIR = BASE_DIR / "input"
 LOGS_DIR = BASE_DIR / "logs"
 LEYES_FILE = INPUT_DIR / "leyes.txt"
+LAWS_MANIFEST_FILE = INPUT_DIR / "laws_manifest.json"
 
 CORPUS_DIR.mkdir(exist_ok=True)
 INPUT_DIR.mkdir(exist_ok=True)
@@ -32,11 +33,14 @@ MAX_TOKENS_SEARCH = 2048
 # --- Timeouts y reintentos ---
 HTTP_TIMEOUT_SECONDS = 30
 HTTP_MAX_RETRIES = 3
+PLAYWRIGHT_ENABLED = True
 PLAYWRIGHT_TIMEOUT_MS = 30_000
 
 # --- Validación de PDFs ---
 MIN_PDF_SIZE_KB = 10
 MIN_TEXTO_CHARS = 100  # mínimo de caracteres extraídos para considerar "tiene texto"
+COMENTADA_THRESHOLD = 0.15  # marcadores de jurisprudencia por página
+COMPILACION_MIN_DECRETOS = 3  # decretos distintos para considerar el PDF una compilación
 
 # --- Candidatos a evaluar por ley ---
 MAX_CANDIDATOS_POR_LEY = 5
